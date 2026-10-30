@@ -1,0 +1,4 @@
+model,test_accuracy,trainable_parameters,final_validation_loss
+MLP,0.82,203530,0.5157345145013598
+CNN,0.8082,20490,0.5260883728398217
+ResNet18,0.8707,5130,0.3486473360326555
